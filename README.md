@@ -2,6 +2,7 @@
 Deploying MNIST digit recognizer using Streamlit and Heroku
 
 ![Screenshot of the web-app](https://github.com/Cossak/MNIST-Digit-Recognizer-Web-App/blob/main/Screenshot.png?raw=true)
+Check out: https://mnist-clf-st.herokuapp.com/
 
 _(For anyone who is looking to tweak the background color of the canvas, I would suggest not to, as the classifier starts giving garbage output when I set canvas background as white and brush stroke as black. If it works for you, kindly let me know too.)_
 
