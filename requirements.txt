@@ -1,0 +1,7 @@
+pandas==1.0.1
+opencv-contrib-python-headless==4.5.1.48
+tensorflow-cpu==2.3.0
+streamlit==0.77.0
+streamlit-drawable-canvas==0.6.0
+dataclasses==0.6
+h5py<3.0.0
